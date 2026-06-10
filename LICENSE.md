@@ -1,4 +1,4 @@
-# 
+# 智能 AI Chatbot for Customer Support 扩展。集成 目标检测 和 计算机视觉，性能最大化。
 
 
 
